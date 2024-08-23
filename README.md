@@ -1,16 +1,14 @@
-## Hi there 👋
+### Boas Vindas ao meu pefil 🥇
 
-<!--
-**Yoch1x/Yoch1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Yochi!
 
-Here are some ideas to get you started:
+- **Sou um estudante da Alura**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Estou me desenvolvendo, para me tornar um Engenhero da Computação**
+
+- **Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos**
+
+  ### Você pode entrar em contato comigo 📫
+  - wellington.machado.batista@escola.pr.gov.br
+ 
+https://media1.tenor.com/m/yIZbhasDNm0AAAAd/blue-lock-isagi.gif
