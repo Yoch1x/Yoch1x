@@ -10,5 +10,5 @@ Meu nome é Yochi!
 
   ### Você pode entrar em contato comigo 📫
   - wellington.machado.batista@escola.pr.gov.br
- 
-https://media1.tenor.com/m/yIZbhasDNm0AAAAd/blue-lock-isagi.gif
+
+![](https://media1.tenor.com/m/yIZbhasDNm0AAAAd/blue-lock-isagi.gif)
